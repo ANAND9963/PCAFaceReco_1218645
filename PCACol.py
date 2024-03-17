@@ -1,8 +1,8 @@
 import numpy as np
 import os
 import sys
-from PIL import Image  # pip install pillow
-import matplotlib.cm as cm  # pip install matplotlib
+from PIL import Image  
+import matplotlib.cm as cm  
 import matplotlib.pyplot as plt
 from DistanceMetric import *
 

@@ -1,7 +1,7 @@
 import numpy as np
 import os
 import sys
-from PIL import Image  # conda install Pillow (Pillow is PIL for Python 3)
+from PIL import Image  
 import matplotlib.cm as cm  # conda install matplotlib
 import matplotlib.pyplot as plt
 from DistanceMetric import EuclideanDistance
